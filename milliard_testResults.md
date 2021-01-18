@@ -1,4 +1,9 @@
-# Understanding your results
+# Milliard 7-in-1 test strip
+
+## Directions
+1. Insert stick into your aquarium for 2 seconds
+1. Remove and lay horizontal
+1. Read measurements within 60 seconds
 
 ## Safe / Favorable / Ideal Values
 
@@ -10,7 +15,8 @@
 |--------------------|-----------------------------|
 | Hardness           | Not too high or too low     |
 | Free chlorine      | Zero / Not present          |
-| Nitrite (NO<sub>2</sub>) ; Nitrate (NO<sub>3</sub>) | < 1mg/L ; < 50mg/L         |
+| Nitrate (NO<sub>3</sub>) | < 50mg/L              |
+| Nitrite (NO<sub>2</sub>) | < 1mg/L               |
 | Alkalinity         | 120 - 180 mg/L              |
 | Carbonate          | 80 - 120                    |
 | pH                 | 6.5 - 8.5 (most freshwater) |
