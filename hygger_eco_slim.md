@@ -1,36 +1,41 @@
 # Hygger Eco Slim (Wave maker)
 
+**Manufacturer**: [Hygger](http://www.hygger-online.com/)  
+**Model**: HG-951
+
+The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Sunset, and Moonlight). Each time range can be set with waves of custom intensity (power), type (wave mode), and frequency.
+
+
 ![Hygger Eco Slim](images/hygger/eco_slim/main.png)
 
 * [Installation](#Installation)
 * [Control panel](#Control-panel)
-* [Feeding mode](#Feeding-mode)
+  * [Feeding mode](#Feeding-mode)
+  * [Power setting](#Power-setting)
+  * [Wave modes](#Wave-modes)
+  * [Wave frequency](#Wave-frequency)
 * [Factory tide table](#Factory-tide-table)
 * [Specifications](#Specifications)
 * [Maintenance](#Maintenance)
 * [Errors](#Errors)
 
-The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Sunset, and Moonlight). Each time range make waves with a set:
-* [Power setting](#Power-setting)
-* [Wave modes](#Wave-modes), and 
-* [Wave frequency](#Wave-frequency)
-
 ## Installation
 
-![Hygger Eco Slim installation](images/hygger/eco_slim/installation.png)
-
 Install 15-20 centimeters below water level. There is no "right side up."
+
+![Hygger Eco Slim installation](images/hygger/eco_slim/installation.png)
 
 ## Control Panel
 
 ![Hygger Eco Slim control panel](images/hygger/eco_slim/control_panel.png)
 
-## Feeding mode
+### Feeding mode
+
+Press **(F)** to stop the wave maker for feeding. The wave maker resumes operation after 10 minutes, or immediately if you press **(F)** again.
+
 ![Hygger Eco Slim feeding mode](images/hygger/eco_slim/feeding.png)
 
-## Power setting
-
-![Hygger Eco Slim power](images/hygger/eco_slim/power.png)
+### Power setting
 
 | Setting | Power |
 |---|---|
@@ -39,9 +44,9 @@ Install 15-20 centimeters below water level. There is no "right side up."
 | 3 | 80% |
 | 4 | 100% |
 
-## Wave modes
+![Hygger Eco Slim power](images/hygger/eco_slim/power.png)
 
-![Hygger Eco Slim wave modes](images/hygger/eco_slim/wave_modes.png)
+### Wave modes
 
 | Setting | Wave mode |
 |---|---|
@@ -52,7 +57,9 @@ Install 15-20 centimeters below water level. There is no "right side up."
 
 \* *Note*: Random mode is a combination of various settings. When random wave mode is selected, the power (2<sup>nd</sup> digit) and frequency (4<sup>th</sup> digit) cannot be set.
 
-## Wave frequency
+![Hygger Eco Slim wave modes](images/hygger/eco_slim/wave_modes.png)
+
+### Wave frequency
 ![Hygger Eco Slim wave frequency](images/hygger/eco_slim/frequency.png)
 
 ## Factory tide table
@@ -61,8 +68,9 @@ Install 15-20 centimeters below water level. There is no "right side up."
 
 ## Specifications
 
-| | |
+| Field | Value |
 |---|---|
+| Manufacturer | Hygger |
 | Model | HG-951 |
 | Flow rate | 6000 liters per hour |
 | Tank | <60 centimeters |
@@ -79,8 +87,6 @@ Install 15-20 centimeters below water level. There is no "right side up."
 
 ## Errors
 
-![Hygger Eco Slim errors](images/hygger/eco_slim/error.png)
-
 | Error code | Error type |
 |---|---|
 | ERR1 | Software overcurrent protection |
@@ -90,3 +96,5 @@ Install 15-20 centimeters below water level. There is no "right side up."
 | ERR6 | Phase loss protection |
 | ERR7 | Locked-rotor protection / Dry running protection |
 | ERR8 | Startup failed |
+
+![Hygger Eco Slim errors](images/hygger/eco_slim/error.png)
