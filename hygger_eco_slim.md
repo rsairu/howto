@@ -21,7 +21,7 @@ The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Su
 
 ## Installation
 
-Install 15-20 centimeters below water level. There is no "right side up."
+Install 15-20 centimeters below water level. The unit works in any orientation.
 
 ![Hygger Eco Slim installation](images/hygger/eco_slim/installation.png)
 
