@@ -12,7 +12,7 @@
 This group of toys used lever and track inertia to make the car run without battery.
 
 * [Set up](#Set-up)
-* [Package Contents](#Package-contents)
+* [Parts](#Parts)
 * [How to use](#How-to-use)
 
 ## Set up
