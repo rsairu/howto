@@ -1,6 +1,8 @@
-# Car Adventure
+# Car Adventure toy
 
 **Manufacturer**: [Wemfg](https://www.amazon.com/s?k=Wemfg&ref=bl_dp_s_web_20794160011)
+
+![Wemfg Car Adventure](images/wemfg/car_adventure/product.png)
 
 1. Exercise your child's reflexes
 1. Exercise your child's grip
@@ -8,8 +10,6 @@
 1. Brave each checkpoint with mechanical linkage
 
 This group of toys used lever and track inertia to make the car run without battery.
-
-![Wemfg Car Adventure](images/wemfg/car_adventure/product.png)
 
 * [Set up](#Set-up)
 * [Package Contents](#Package-contents)
