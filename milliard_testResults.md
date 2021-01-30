@@ -13,13 +13,15 @@
 
 | Result             | Value                       |
 |--------------------|-----------------------------|
-| Hardness           | Not too high or too low     |
-| Free chlorine      | Zero / Not present          |
-| Nitrate (NO<sub>3</sub>) | < 50mg/L              |
-| Nitrite (NO<sub>2</sub>) | < 1mg/L               |
-| Alkalinity         | 120 - 180 mg/L              |
-| Carbonate          | 80 - 120                    |
-| pH                 | 6.5 - 8.5 (most freshwater) |
+| [Hardness](#Hardness)           | Not too high or too low     |
+| [Free chlorine](#Free-chlorine)      | Zero / Not present          |
+| [Nitrate (NO<sub>3</sub>)](#Nitrate--Nitrite) | < 50mg/L              |
+| [Nitrite (NO<sub>2</sub>)]((#Nitrate--Nitrite) ) | < 1mg/L               |
+| [Alkalinity](#Alkalinity)         | 120 - 180 mg/L              |
+| [Carbonate](#Carbonate)          | 80 - 120                    |
+| [pH](#pH)                 | 6.5 - 8.5 (most freshwater) |
+
+---
 
 ## Detailed breakdown
 
@@ -31,9 +33,9 @@ Total hardness refers to the amount of calcium and magnesium in the water. If wa
 
 Chlorine may be present in tap water. It is harmful to fish, damagining their gills and skin, and should not be present in fish tank water.
 
-### Nitrite (NO<sub>2</sub>) & nitrate (NO<sub>3</sub>)
+### Nitrate & nitrite
 
-As part of the nitrogen cycle in your aquarium, organic material that contains nitrogen, such as fish waste or uneaten food, along with dissolved waste excreted directly by the fish, degrades to produce nitrite (NO<sub>2</sub>). Finally, nitrate (NO<sub>3</sub>) occurs and may accumulate.
+As part of the nitrogen cycle in your aquarium, organic material that contains nitrogen, such as fish waste or uneaten food, along with dissolved waste excreted directly by the fish, degrades to produce nitrite (NO<sup>-</sup><sub>2</sub>). Finally, nitrate (NO<sup>-</sup><sub>3</sub>) occurs and may accumulate.
 
 High nitrite levels for extended periods is harmful to your fish and can lead to the loss of oyur fish over time. High nitrate levels is harmful to sensitive or young fish and additionally promotes algae growth. If nitrite or nitrate concentrations are too high, we recommend proceeding with a partial water change.
 
