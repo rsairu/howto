@@ -5,7 +5,7 @@
 **Manufacturer**: [Fluval](https://fluvalaquatics.com/us/)  
 **Models**: **20**, 30, 50, 70, 110
 
-Congratulatiosn on the purchase of your new Fluval AquaClear Power Filter. Please allow approximately 15-20 minutes for the complete installation of filter parts and inserts. The rewards to your aquatic adventures will be worth it!
+Congratulations on the purchase of your new Fluval AquaClear Power Filter. Please allow approximately 15-20 minutes for the complete installation of filter parts and inserts. The rewards to your aquatic adventures will be worth it!
 
 * [Safety instructions](#Safety-instructions)
 * [Parts](#Parts)
