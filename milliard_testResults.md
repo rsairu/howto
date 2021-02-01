@@ -1,4 +1,6 @@
-# Milliard 7-in-1 test strip
+# 7-in-1 test strip
+
+**Manufacturer**: [Milliard](https://www.milliardbrands.com/) 
 
 ## Directions
 1. Insert stick into your aquarium for 2 seconds
