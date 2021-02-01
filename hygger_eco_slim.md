@@ -1,12 +1,11 @@
-# Hygger Eco Slim (Wave maker)
+# Eco Slim wave maker
+
+![Hygger Eco Slim](images/hygger/eco_slim/main.png)
 
 **Manufacturer**: [Hygger](http://www.hygger-online.com/)  
 **Model**: HG-951
 
 The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Sunset, and Moonlight). Each time range can be set with waves of custom intensity (power), type (wave mode), and frequency.
-
-
-![Hygger Eco Slim](images/hygger/eco_slim/main.png)
 
 * [Installation](#Installation)
 * [Control panel](#Control-panel)

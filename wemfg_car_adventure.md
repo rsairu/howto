@@ -1,8 +1,8 @@
 # Car Adventure toy
 
-**Manufacturer**: [Wemfg](https://www.amazon.com/s?k=Wemfg&ref=bl_dp_s_web_20794160011)
-
 ![Wemfg Car Adventure](images/wemfg/car_adventure/product.png)
+
+**Manufacturer**: [Wemfg](https://www.amazon.com/s?k=Wemfg&ref=bl_dp_s_web_20794160011)
 
 1. Exercise your child's reflexes
 1. Exercise your child's grip
