@@ -22,17 +22,17 @@ The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Su
 
 Install 15-20 centimeters below water level. The unit works in any orientation.
 
-![Hygger Eco Slim installation](images/hygger/eco_slim/installation.png)
+![Installation](images/hygger/eco_slim/installation.png)
 
 ## Control Panel
 
-![Hygger Eco Slim control panel](images/hygger/eco_slim/control_panel.png)
+![Control panel](images/hygger/eco_slim/control_panel.png)
 
 ### Feeding mode
 
 Press **(F)** to stop the wave maker for feeding. The wave maker resumes operation after 10 minutes, or immediately if you press **(F)** again.
 
-![Hygger Eco Slim feeding mode](images/hygger/eco_slim/feeding.png)
+![Feeding mode](images/hygger/eco_slim/feeding.png)
 
 ### Power setting
 
@@ -43,7 +43,7 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 | 3 | 80% |
 | 4 | 100% |
 
-![Hygger Eco Slim power](images/hygger/eco_slim/power.png)
+![Power](images/hygger/eco_slim/power.png)
 
 ### Wave modes
 
@@ -56,14 +56,14 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 
 \* *Note*: Random mode is a combination of various settings. When random wave mode is selected, the power (2<sup>nd</sup> digit) and frequency (4<sup>th</sup> digit) cannot be set.
 
-![Hygger Eco Slim wave modes](images/hygger/eco_slim/wave_modes.png)
+![Wave modes](images/hygger/eco_slim/wave_modes.png)
 
 ### Wave frequency
-![Hygger Eco Slim wave frequency](images/hygger/eco_slim/frequency.png)
+![Wave frequency](images/hygger/eco_slim/frequency.png)
 
 ## Factory tide table
 
-![Hygger Eco Slim factory default tide table](images/hygger/eco_slim/factory_tides.png)
+![Factory default tide table](images/hygger/eco_slim/factory_tides.png)
 
 ## Specifications
 
@@ -96,4 +96,4 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 | ERR7 | Locked-rotor protection / Dry running protection |
 | ERR8 | Startup failed |
 
-![Hygger Eco Slim errors](images/hygger/eco_slim/error.png)
+![Errors](images/hygger/eco_slim/error.png)
