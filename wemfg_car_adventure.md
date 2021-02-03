@@ -21,6 +21,12 @@ This group of toys used lever and track inertia to make the car run without batt
 
 ## Parts
 
+* Base
+* Track and pillars
+* 4 cartoon cars
+* Crane
+* Helicopter
+
 ![Wemfg Car Adventure package contents](images/wemfg/car_adventure/parts.png)
 
 ## How to use
