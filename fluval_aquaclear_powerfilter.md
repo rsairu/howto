@@ -26,6 +26,22 @@ Congratulations on the purchase of your new Fluval AquaClear Power Filter. Pleas
 
 ## Safety instructions
 
+**To guard against injury, basic safety precautions should be observed, including the following: For the complete enjoyment, use, and understanding of this product, read and follow all safety insructions and all-important notices on the Fluval AquaClear Power Filter before using. Failure to do so may result in damage to the unit.**
+
+**DANGER**  
+To avoid possible electical show, special sare should be taken since water is employed in the use of this equipment. For each of the following situations, do not attempt repairs yourself; return the appliance to an authorized service facility for service, or discard the appliance.  
+1. If the motor unit falls into the water **do not** reach for it! First unplug it anf then retrieve it. If any of the electrical components of the appliance gets wet, unplug it immediately.
+1. If the motor unit shows any sign of abnormal water leakage or if RCD (or GFCI - Ground Fault Current Interrupter) switches off disconnect the power supply cord from mains and remove pump from water.
+1. Carefully examine the appliance after installation. It should not be plugged in if there is water on parts not intended to be wet.
+1. Do not operate any appliance if it has a damaged cord or plug, or if it is malfunctioning or if it is dropped or damaged in any manner. The power cord of this appliance cannot be replaced; if the cord is damaged, the appliance should be discarded. Never cut the cord.
+1. To avoid the possibility of the appliance's plug or receptacle getting wet, position the unit to one side of a wall mounted receptacle to prevent water from dripping onto the receptacle or plug. A "drip loop" (**A**) should be arranged to the receptacle. The "drip loop" is the part of the cord below the level of the receptacle or the connector if an extension cord is used, to prevent water traveling along the cord and coming into contact with the receptacle. If the plug or the receptacle does get wet, **do not** unplug the cord. Disconnect the fuse or circuit breaker that supplies power to the appliance. Then unplug and examine for presence of water in the receptacle.
+
+![Drip loop](images/fluval/aquaclear_filter/driploop.png)
+
+**Warning**  
+1. 
+
+
 ![AquaClear XXX](images/fluval/aquaclear_filter/XXX.png)
 
 ## Parts
