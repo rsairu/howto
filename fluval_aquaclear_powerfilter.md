@@ -28,7 +28,8 @@ Congratulations on the purchase of your new Fluval AquaClear Power Filter. Pleas
 
 **To guard against injury, basic safety precautions should be observed, including the following: For the complete enjoyment, use, and understanding of this product, read and follow all safety insructions and all-important notices on the Fluval AquaClear Power Filter before using. Failure to do so may result in damage to the unit.**
 
-**DANGER**  
+### DANGER
+
 To avoid possible electical show, special sare should be taken since water is employed in the use of this equipment. For each of the following situations, do not attempt repairs yourself; return the appliance to an authorized service facility for service, or discard the appliance.  
 1. If the motor unit falls into the water **do not** reach for it! First unplug it anf then retrieve it. If any of the electrical components of the appliance gets wet, unplug it immediately.
 1. If the motor unit shows any sign of abnormal water leakage or if RCD (or GFCI - Ground Fault Current Interrupter) switches off disconnect the power supply cord from mains and remove pump from water.
@@ -38,11 +39,20 @@ To avoid possible electical show, special sare should be taken since water is em
 
 ![Drip loop](images/fluval/aquaclear_filter/driploop.png)
 
-**Warning**  
+### WARNING
+
+This appliance can be used by children aged from 8 years and above and persons with reduced physical, sensory, or mental capabilities or lack of experience and knowledge if they have been given supervision or instruction concerning use of the appliance in a safe way and understand the hazards involved. Children shall not play with the appliance. Cleaning and user maintenance shall not be made by children without supervision.
+
+To avoid injury, do not contact moving parts or hot parts such as heaters, reflectors, lamp bulbs, etc.
+
+### CAUTION
+
+1. Always unplug or disconnect all appliances in the aquarium from electricity supply before placing hands in water, before putting on or taking off parts and whilst the equipment is being installed, maintained, or handled. When inserting or removing the pump from the water, always pull out the main electricity plug. Never yank cord to pull plug from outlet. Grasp the plug and pull to disconnect. Always unplug an appliance from an outlet when not in use.
+1.
+1.
+1.
+1.
 1. 
-
-
-![AquaClear XXX](images/fluval/aquaclear_filter/XXX.png)
 
 ## Parts
 
@@ -126,7 +136,7 @@ Power filter must be level to ensure optimal performance.
 
 ## Maintenance
 
-![XXX](images/fluval/aquaclear_filter/XXX.png)
+![](images/fluval/aquaclear_filter/maintenance.png)
 
 ## Troubleshooting
 
@@ -134,7 +144,25 @@ Power filter must be level to ensure optimal performance.
 
 ## Specifications
 
-![XXX](images/fluval/aquaclear_filter/XXX.png)
+RPM 3600 (All models)
+
+### Imperial
+
+*Measured in gallons per hour*
+
+| Model           | **20** | 30  | 50   | 70  | 110   |
+|-----------------|--------|-----|------|-----|-------|
+| Flow rate (max) | 100    | 150 | 200  | 300 | 500   |
+| Flow rate (min) | 33     | 50  | 66.6 | 100 | 166.6 |
+
+### Metric
+
+*Measured in liters per hour*
+
+| Model           | **20** | 30  | 50   | 70  | 110   |
+|-----------------|--------|-----|------|-----|-------|
+| Flow rate (max) | 378    | 568 | 757  | 1135 | 1890 |
+| Flow rate (min) | 125    | 190 | 250  | 380  | 630  |
 
 ### Replacement parts
 
