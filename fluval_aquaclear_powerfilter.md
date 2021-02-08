@@ -7,7 +7,7 @@
 
 Congratulations on the purchase of your new Fluval AquaClear Power Filter. Please allow approximately 15-20 minutes for the complete installation of filter parts and inserts. The rewards to your aquatic adventures will be worth it!
 
-* [Safety instructions](#Safety-instructions)
+* [Important safeguards](#Important-safeguards)
 * [Parts](#Parts)
 * Setup
   * [Filter preparation](#Filter-preparation)
@@ -24,7 +24,7 @@ Congratulations on the purchase of your new Fluval AquaClear Power Filter. Pleas
 * [How it works](#How-it-works)
 
 
-## Safety instructions
+## Important safeguards
 
 **To guard against injury, basic safety precautions should be observed, including the following: For the complete enjoyment, use, and understanding of this product, read and follow all safety insructions and all-important notices on the Fluval AquaClear Power Filter before using. Failure to do so may result in damage to the unit.**
 
@@ -48,11 +48,14 @@ To avoid injury, do not contact moving parts or hot parts such as heaters, refle
 ### CAUTION
 
 1. Always unplug or disconnect all appliances in the aquarium from electricity supply before placing hands in water, before putting on or taking off parts and whilst the equipment is being installed, maintained, or handled. When inserting or removing the pump from the water, always pull out the main electricity plug. Never yank cord to pull plug from outlet. Grasp the plug and pull to disconnect. Always unplug an appliance from an outlet when not in use.
-1.
-1.
-1.
-1.
-1. 
+1. This applianceis a non-submersible aquariumfilter pump for use in ornamental aquariums. Do not use this appliance for other than its intended use (e.g., don't use it with inflammable or drinkable liquids, in swimming pools or other situations where people are immersed, in garden ponds, bathrooms, etc.). This appliance is suitable for use in water temperatures up to 35°C. The use of attachments not recommended or sold by the appliance manufacturer may cause a dangerous situation.
+1. This filter pump is suitable for INDOOR/HOUSEHOLD use only. Do not install or store the appliance where it will be exposed to the weather or to temperatures below freezing.
+1. Make sure that this appliance is securely installed before operating it and that the electrical connection is in accordance with the data on the rating label. Do not allow pump to run dry.
+1. Read and observe all the important notices on the appliance.
+1. If an extension cord is necessary, a cord with the proper rating should be used. A cord rated for less amperes or watts than the appliance rating may overheat. Care should be taken to arrange the cord so that it will not be tripped over or pulled. The connection should be carried out by a qualified electrical installer.
+
+**Save these instructions**  
+For the complete use and understanding of this power filter it is recommended that this manual is thoroughly read and understood. Failure to do so may result in damage to the filter.
 
 ## Parts
 
