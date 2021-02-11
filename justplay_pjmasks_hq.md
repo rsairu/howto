@@ -5,11 +5,13 @@
 *Car Boy figure and Cat-Car included. Other vehicles and figures sold separately.  
 Control Center requires 2 x AAA (LR03) batteries (not included).*
 
+![](images/justplay/pjmasks_hq/product2.png)
+
 [Product page](https://justplayproducts.com/products/pj-masks-2-in-1-mobile-hq/)
 
 **Manufacturer**: [Just Play](https://justplayproducts.com/) | PJ Masks | Frog Box | Entertainment One UK | Walt Disney EMEA 
 
-**3+ - WAARNING - CHOKING HAZARD**  
+**3+ - WARNING - CHOKING HAZARD**  
 Small parts. Not for children under 3 years / 36 months.  
 Do not sit on the play set or place heavy objects on it.
 
@@ -59,9 +61,9 @@ The PJ Masks are on their way, into the night to save the day with the PJ Masks 
 
 ![](images/justplay/pjmasks_hq/no_recycle.png)
 
-Reuires 2x AAA (LR03) batteries (not included)
-
 ![](images/justplay/pjmasks_hq/batteries.png)
+
+Requires 2x AAA (LR03) batteries (not included)
 
 To replace batteries, unscrew cover using a Phillips screwdriver. Note polarity of batteries, remove and replace with new batteries.
 
