@@ -169,19 +169,57 @@ RPM 3600 (All models)
 
 ### Replacement parts
 
-![XXX](images/fluval/aquaclear_filter/XXX.png)
+To reorder parts for your Fluval AquaClear Power Filter pleace refer to the parts list below
+
+![](images/fluval/aquaclear_filter/replacement_parts.png)
+
+| (NEW) Model #           | Diagram | **20**     | 30     | 50     | 70     | 110    |
+|-------------------------|---------|------------|--------|--------|--------|--------|
+| Former model            | -       | **Mini**   | 150    | 200    | 300    | 500    |
+| Article #               | -       | **A595**   | A600   | A610   | A615   | A620   |
+| Filter case             | A       | **A16020** | A16120 | A16220 | A16320 | A16420 |
+| Filter basket           | B       | **A16040** | A16140 | A16240 | A16340 | A16440 |
+| Filter cover            | C       | **A16030** | A16130 | A16230 | A16330 | A16430 |
+| Intake "U" tube         | D       | **A16050** | A16150 | A16150 | A16350 | A16350 |
+| Extension tube          | E       | **A625**   | A625   | A625   | A627   | A627   |
+| Impeller cover          | F       | **A16015** | A16015 | A16015 | A16315 | A16415 |
+| Impeller assembly       | G       | **A630**   | A632   | A634   | A636   | A638   |
+| Seal ring               | H       | **A16017** | A16017 | A16017 | A16017 | A16417 |
+| Motor unit              | I       | **A16000** | A16000 | A16000 | A16000 | A16400 |
+| Leveling device         | J       | **A16325** | A16325 | A16325 | A16325 | A16325 |
+| Intake "U" tube adapter | \*      | **N/A**    | N/A    | N/A    | N/A    | A16412 |
+
+\*Not shown. Available for Model 110 only.
 
 ## Contact
 
 1-800-724-2436 (8:30 AM - 4:30 PM EST)  
 Ask for customer service
 
+If you have a problem, or have questions about the operation of this product, please let us try to help you before returning product to your dealer. Most problems can be handled properly promptly with a toll-free phone call. Or if you prefer, you can contact us on our websit at www.hagen.com. When you call (or write), please have all relevant information, such as model number and/or part numbers, available, as well as a decription of the nature of the problem.
+
 ## Guarantee
 
-![XXX](images/fluval/aquaclear_filter/XXX.png)
+**For authorized guarantee consumer service:** Return unit with dated receipt plus $5.00 for shipping and handling to:
+
+Rolf C. Hagen (USA) Corp.
+Consumer Repair
+305 Forbes Boulevard
+Mansfield, MA 08048
+
+**LIFETIME GUARANTEE**
+
+Fluval AquaClear Power Filters are guaranteed against defects in material or workmanship under normal aquarium usage and service for as long as you own the filter. We offer a Lifetime Guarantee on all non-replaceable parts, which means that the filter will be repaired or replaced at the manufacturer's discretion, free of charge, when the complete pump is returned with proof of purchase and postage paid. Please include $5.00 to cover shipping and handling. This warranty does not apply to any filter that has been subjected to misuse, megligence, or tampering. No liability is assumed with respect to loss or damage to livestock or personal property irrespective of the cause thereof.
 
 *Register online:*** www.hagen.com
+
+* To learn more about Hagen products
+* For a copy of our FREE full color, 40 page, Basic Aquarium Guide
 
 ## How it works
 
 ![XXX](images/fluval/aquaclear_filter/XXX.png)
+
+
+(C) 2012 Rolf C. Hagen (USA) Corp. All Rights Reserved.
+HAGEN, CYCLEGUARD, and FLUVAL are registered trademarks of Rolf C. Hagen (USA) Corp., Mansfield, MA.
