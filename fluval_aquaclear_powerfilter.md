@@ -143,7 +143,27 @@ Power filter must be level to ensure optimal performance.
 
 ## Troubleshooting
 
-![XXX](images/fluval/aquaclear_filter/XXX.png)
+**Q. ?**
+**A.** 
+
+**Q. ?**
+**A.** 
+
+**Q. ?**
+**A.** 
+(See [Maintenance](#Maintenance))
+
+**Q. ?**
+**A.** 
+
+**Q. ?**
+**A.** 
+
+**Q. ?**
+**A.** 
+
+**Q. ?**
+**A.** 
 
 ## Specifications
 
@@ -215,11 +235,6 @@ Fluval AquaClear Power Filters are guaranteed against defects in material or wor
 
 * To learn more about Hagen products
 * For a copy of our FREE full color, 40 page, Basic Aquarium Guide
-
-## How it works
-
-![XXX](images/fluval/aquaclear_filter/XXX.png)
-
 
 (C) 2012 Rolf C. Hagen (USA) Corp. All Rights Reserved.
 HAGEN, CYCLEGUARD, and FLUVAL are registered trademarks of Rolf C. Hagen (USA) Corp., Mansfield, MA.
