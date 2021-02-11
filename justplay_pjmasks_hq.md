@@ -93,7 +93,9 @@ This device complies with Part 15 of the FCC Rules. Operation is subject to the 
 
 ## Questions or comments
 
-![](images/justplay/pjmasks_hq/justplay_logo.png)
+![](images/justplay/pjmasks_hq/logo.png)
+
+[Contact webpage](https://justplayproducts.com/contact/)
 
 Just Play logo (C) 2020 Just Play, LLC
 4850 T-Rex Ave, Suite 100
