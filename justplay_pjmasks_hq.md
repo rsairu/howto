@@ -61,7 +61,7 @@ The PJ Masks are on their way, into the night to save the day with the PJ Masks 
 
 Reuires 2x AAA (LR03) batteries (not included)
 
-![](images/justplay/pjmasks_hq/no_recycle.png)
+![](images/justplay/pjmasks_hq/batteries.png)
 
 To replace batteries, unscrew cover using a Phillips screwdriver. Note polarity of batteries, remove and replace with new batteries.
 
