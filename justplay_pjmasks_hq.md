@@ -57,7 +57,7 @@ The PJ Masks are on their way, into the night to save the day with the PJ Masks 
 
 ![](images/justplay/pjmasks_hq/labels.png)
 
-## Battery safety
+## Batteries
 
 ![](images/justplay/pjmasks_hq/no_recycle.png)
 
