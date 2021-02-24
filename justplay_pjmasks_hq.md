@@ -15,9 +15,6 @@ Control Center requires 2 x AAA (LR03) batteries (not included).*
 Small parts. Not for children under 3 years / 36 months.  
 Do not sit on the play set or place heavy objects on it.
 
-*CAUTION*  
-Have an adult remove and dispose of all packaging, ties, and fasteners before use.
-
 The PJ Masks are on their way, into the night to save the day with the PJ Masks 2-in-1 Mobile HQ. Kids will love recreating their favorite episodes by transforming the PJ Masks Headquarters into the PJ Seeker. As the Headquarters, the Mobile HQ stands 3-feet tall and features five levels of play. Kids can use the lights and sounds control board on the fourth level to find their mission, just like the PJ Masks! Is it Romeo, Luna Girl, or Night Ninja causing mischief this time? It’s time to be a hero.
 
 * [Play](#Play)
@@ -31,6 +28,9 @@ The PJ Masks are on their way, into the night to save the day with the PJ Masks 
 * [Questions or comments](#Questions-or-comments)
 
 ## Play
+
+*CAUTION*  
+Have an adult remove and dispose of all packaging, ties, and fasteners before use.
 
 ### Seeker to HQ mode
 
