@@ -1,6 +1,6 @@
 # Tetra Internal Power Filter
 
-![](product.png)
+![](main-image.png)
 
 **Manufacturer**: Spectrum Brands Pet LLC
 
