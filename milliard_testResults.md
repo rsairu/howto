@@ -3,7 +3,7 @@
 **Manufacturer**: [Milliard](https://www.milliardbrands.com/) 
 
 * [Directions](#Directions)
-* [Safe Values](#Safe-values)
+* [Safe values](#Safe-values)
 * [Detailed breakdown](#Detailed-breakdown)
 
 ## Directions
