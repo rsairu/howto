@@ -1,7 +1,7 @@
 # 7-in-1 test strip
 
 **Manufacturer**: Milliard [?](https://www.milliardbrands.com/)  
-Order: https://duckduckgo.com/?q=7-in-1+milliard+aquarium+test+strips&ia=web
+Order: https://duckduckgo.com/?q=7-in-1+milliard+aquarium+test+strips
 
 * [Directions](#Directions)
 * [Safe values](#Safe-values)
