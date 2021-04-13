@@ -8,7 +8,7 @@
 
 ## Toys
 * [Just Play: PJ Masks Seeker HQ](justplay_pjmasks-HQ/main.md)
-* [Wemfg: Car Adventure](wemfg_car-adventure/main.md
+* [Wemfg: Car Adventure](wemfg_car-adventure/main.md)
 
 ## Electronics
 * [Valoin: HDMI Adapter](valoin_hdmi-adapter/main.md)
