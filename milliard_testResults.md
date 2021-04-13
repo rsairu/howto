@@ -1,7 +1,7 @@
 # 7-in-1 test strip
 
 **Manufacturer**: Milliard [?](https://www.milliardbrands.com/)  
-Order link: (Amazon) https://www.amazon.com/Milliard-Aquarium-Strips-Count-Fresh/dp/B08H6SQ312
+Order: https://duckduckgo.com/?q=7-in-1+milliard+aquarium+test+strips&ia=web
 
 * [Directions](#Directions)
 * [Safe values](#Safe-values)
