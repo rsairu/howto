@@ -2,26 +2,30 @@
 
 **Manufacturer**: [Milliard](https://www.milliardbrands.com/) 
 
+* [Directions](#Directions)
+* [Safe Values](#Safe-values)
+* [Detailed breakdown](#Detailed-breakdown)
+
 ## Directions
 1. Insert stick into your aquarium for 2 seconds
 1. Remove and lay horizontal
 1. Read measurements within 60 seconds
 
-## Safe / Favorable / Ideal Values
+## Safe values
 
-**Note:** Ideal values are species dependent.
+**Note:** Safe / favorable / ideal values depend on the species.
 
 ![Milliard 7-in-1 test result colors](images/milliard/milliard_7in1test.png)
 
 | Result             | Value                       |
 |--------------------|-----------------------------|
-| [Hardness](#Hardness)           | Not too high or too low     |
-| [Free chlorine](#Free-chlorine)      | Zero / Not present          |
-| [Nitrate (NO<sub>3</sub>)](#Nitrate--Nitrite) | < 50mg/L              |
-| [Nitrite (NO<sub>2</sub>)]((#Nitrate--Nitrite) ) | < 1mg/L               |
-| [Alkalinity](#Alkalinity)         | 120 - 180 mg/L              |
-| [Carbonate](#Carbonate)          | 80 - 120                    |
-| [pH](#pH)                 | 6.5 - 8.5 (most freshwater) |
+| Hardness | Not too high or too low     |
+| Free chlorine | Zero / Not present          |
+| Nitrate (NO<sub>3</sub>) | < 50mg/L              |
+| Nitrite (NO<sub>2</sub>) | < 1mg/L               |
+| Alkalinity | 120 - 180 mg/L              |
+| Carbonate | 80 - 120                    |
+| pH | 6.5 - 8.5 (most freshwater) |
 
 ---
 
