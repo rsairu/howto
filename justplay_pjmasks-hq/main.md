@@ -1,11 +1,11 @@
 # PJ Masks 2 in 1 Mobile HQ
 
-![](images/justplay/pjmasks_hq/product.png)
+![](product.png)
 
 *Car Boy figure and Cat-Car included. Other vehicles and figures sold separately.  
 Control Center requires 2 x AAA (LR03) batteries (not included).*
 
-![](images/justplay/pjmasks_hq/product2.png)
+![](product2.png)
 
 [Product page](https://justplayproducts.com/products/pj-masks-2-in-1-mobile-hq/)
 
@@ -40,9 +40,9 @@ Have an adult remove and dispose of all packaging, ties, and fasteners before us
 1. Fold down Owlette ramp.
 1. To lift elevator, press and hold handle.
 
-![](images/justplay/pjmasks_hq/seekerHQ_1.png)
+![](seekerHQ_1.png)
 
-![](images/justplay/pjmasks_hq/seekerHQ_2.png)
+![](seekerHQ_2.png)
 
 ### HQ to Seeker mode
 
@@ -51,17 +51,17 @@ Have an adult remove and dispose of all packaging, ties, and fasteners before us
 1. Make sure elevator is in bottom position.
 1. To transform, hold switch in unlock position, grab the handle, and fold down into Seeker mode.
 
-![](images/justplay/pjmasks_hq/HQseeker.png)
+![](HQseeker.png)
 
 ## Labels
 
-![](images/justplay/pjmasks_hq/labels.png)
+![](labels.png)
 
 ## Batteries
 
-![](images/justplay/pjmasks_hq/no_recycle.png)
+![](no_recycle.png)
 
-![](images/justplay/pjmasks_hq/batteries.png)
+![](batteries.png)
 
 Requires 2x AAA (LR03) batteries (not included)
 
@@ -95,7 +95,7 @@ This device complies with Part 15 of the FCC Rules. Operation is subject to the 
 
 ## Questions or comments
 
-![](images/justplay/pjmasks_hq/logo.png)
+![](logo.png)
 
 [Contact webpage](https://justplayproducts.com/contact/)
 
@@ -105,4 +105,4 @@ Boca Raton, FL 33431, USA
 
 In the interest of better quality and value, we are constantly improving and updating our products. Consequently, pictures on this package may sometimes vary from the product enclosed. Please retain this address for future reference.
 
-![](images/justplay/pjmasks_hq/endcap.png)
+![](endcap.png)

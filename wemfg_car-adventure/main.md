@@ -1,6 +1,6 @@
 # Car Adventure toy
 
-![Wemfg Car Adventure](images/wemfg/car_adventure/product.png)
+![Wemfg Car Adventure](product.png)
 
 **Manufacturer**: [Wemfg](https://www.amazon.com/s?k=Wemfg&ref=bl_dp_s_web_20794160011)
 
@@ -17,7 +17,7 @@ This group of toys used lever and track inertia to make the car run without batt
 
 ## Set up
 
-![Wemfg Car Adventure installation](images/wemfg/car_adventure/installation.png)
+![Wemfg Car Adventure installation](installation.png)
 
 ## Parts
 
@@ -27,8 +27,8 @@ This group of toys used lever and track inertia to make the car run without batt
 * Crane
 * Helicopter
 
-![Wemfg Car Adventure package contents](images/wemfg/car_adventure/parts.png)
+![Wemfg Car Adventure package contents](parts.png)
 
 ## How to use
 
-![Wemfg Car Adventure how to use](images/wemfg/car_adventure/use.png)
+![Wemfg Car Adventure how to use](use.png)

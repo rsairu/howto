@@ -1,6 +1,6 @@
 # Eco Slim wave maker
 
-![Hygger Eco Slim](images/hygger/eco_slim/main.png)
+![Hygger Eco Slim](main-image.png)
 
 **Manufacturer**: [Hygger](http://www.hygger-online.com/)  
 **Model**: HG-951
@@ -22,17 +22,17 @@ The Hygger Eco Slim wave maker has five time ranges (Dawn, Sunrise, Daylight, Su
 
 Install 15-20 centimeters below water level. The unit works in any orientation.
 
-![Installation](images/hygger/eco_slim/installation.png)
+![Installation](installation.png)
 
 ## Control Panel
 
-![Control panel](images/hygger/eco_slim/control_panel.png)
+![Control panel](control-panel.png)
 
 ### Feeding mode
 
 Press **(F)** to stop the wave maker for feeding. The wave maker resumes operation after 10 minutes, or immediately if you press **(F)** again.
 
-![Feeding mode](images/hygger/eco_slim/feeding.png)
+![Feeding mode](feeding.png)
 
 ### Power setting
 
@@ -43,7 +43,7 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 | 3 | 80% |
 | 4 | 100% |
 
-![Power](images/hygger/eco_slim/power.png)
+![Power](power.png)
 
 ### Wave modes
 
@@ -56,14 +56,14 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 
 \* *Note*: Random mode is a combination of various settings. When random wave mode is selected, the power (2<sup>nd</sup> digit) and frequency (4<sup>th</sup> digit) cannot be set.
 
-![Wave modes](images/hygger/eco_slim/wave_modes.png)
+![Wave modes](wave-modes.png)
 
 ### Wave frequency
-![Wave frequency](images/hygger/eco_slim/frequency.png)
+![Wave frequency](frequency.png)
 
 ## Factory tide table
 
-![Factory default tide table](images/hygger/eco_slim/factory_tides.png)
+![Factory default tide table](factory-tides.png)
 
 ## Specifications
 
@@ -96,4 +96,4 @@ Press **(F)** to stop the wave maker for feeding. The wave maker resumes operati
 | ERR7 | Locked-rotor protection / Dry running protection |
 | ERR8 | Startup failed |
 
-![Errors](images/hygger/eco_slim/error.png)
+![Errors](error.png)

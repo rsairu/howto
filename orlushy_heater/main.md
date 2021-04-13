@@ -1,6 +1,6 @@
 # Fully submersible aquarium heater
 
-![Orlushy heater](images/orlushy/heater/unit.png)
+![Orlushy heater](unit.png)
 
 **Manufacturer**: [Orlushy](https://www.amazon.com/s?k=Orlushy&ref=bl_dp_s_web_19262582011)  
 **Model**: **100W**, 150W, 200W, 300W, 500W
@@ -23,9 +23,9 @@ As the most mainstream material for aquarium heaters on the market, quartz glass
 
 ## Installation
 
-![](images/orlushy/heater/installation.png)
+![](installation.png)
 
-![](images/orlushy/heater/heat_areas.png)
+![](heat_areas.png)
 
 ## Temperature control
 

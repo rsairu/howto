@@ -1,6 +1,6 @@
 # Lightning digital AV adapter
 
-![](images/valoin/adapter.png)
+![](adapter.png)
 
 **Manufacturer**: Valoin
 
@@ -18,7 +18,7 @@ The Lightning Digital AV adapter with your Apple with Lightning connector. Produ
 * Wait about 15 seconds to complete initial connection
 * Video should be sharing to HDTV
 
-![](images/valoin/adapter_diagram.png)
+![](adapter_diagram.png)
 
 ## Disclaimer
 
@@ -26,6 +26,6 @@ Due to intellectual property issues in this product, the following video sites a
 
 * Netflix, Google Movies, Amazon Prime video, Yomvi, Line TV, Popom Time, CBS CNNGO, BT SPORT, SBS, Periscope, Tonton, Iflix, IPTV, Hulu, Unext, DTV, HBO Go, Molotov.tv, Sling Tv, Xfinity, PTCL Smart TV, TSN Go, Workout, Fox Sports Go, ESPN, Hbonow, SlingBox, Fubo TV, Vudu, Foxtel
 
-![](images/valoin/recycle.png)
+![](recycle.png)
 
 Made in China
