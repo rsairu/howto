@@ -17,7 +17,7 @@
 
 ![Milliard 7-in-1 test result colors](images/milliard/milliard_7in1test.png)
 
-| Result             | Value                       |
+| Result             | value                       |
 |--------------------|-----------------------------|
 | Hardness | Not too high or too low     |
 | Free chlorine | Zero / Not present          |
