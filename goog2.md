@@ -18,7 +18,7 @@ If all board spaces (9) have been used and a winner has not been determined, the
 
 ### Optimum strategy
 
-According to Eric Buffington, a self declared (?) "tic-tac-toe master", claims that, so long as you go first, you can win or tie any game ([see video here](https://www.youtube.com/watch?v=5n2aQ3UQu9Y)). The strategy consists of picking the corners while blocking opponent attempts to get three-in-a-row. Once 3 of the 4 corners on the board have been taken, the player has 2 paths to victory: diagonally and across. Since the opposing player can only block 1 of the 2 paths, on the next turn the other, non-bloacked path is taken and the player achieves victory.
+According to Eric Buffington, a self declared (?) "tic-tac-toe master", claims that, so long as you go first, you can win or tie any game ([see video here](https://www.youtube.com/watch?v=5n2aQ3UQu9Y)). The strategy consists of picking the corners while blocking opponent attempts to get three-in-a-row. Once 3 of the 4 corners on the board have been taken, the player will usually have 2 paths to victory: diagonally and across. Since the opposing player can only block 1 of the 2 paths, on the next turn the other, non-bloacked path is taken and the player achieves victory.
 
 ## Variations
 
