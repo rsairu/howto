@@ -59,7 +59,7 @@ Even though the words "cheese" and "butter" appear 3 times each in the sample st
 * [Search API](www.google.com)
 
 ### See also
-[`dontHoldYourBeath()`](http://www.google.com), [`fineToothComb()`](http://www.google.com)
+[`eyeOfTheNeedle()`](http://www.google.com), [`fineToothComb()`](http://www.google.com)
 
 ## Events
 *Lorem ipsum...*
