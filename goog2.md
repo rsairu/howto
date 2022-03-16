@@ -24,16 +24,16 @@ According to Eric Buffington, a self declared (?) "tic-tac-toe master", claims t
 
 "Ultimate Tic-Tac-Toe" is a variation of tic-tac-toe where each square in the regular 3x3 grid  is itself a 3x3 grid (creating, in effect, a 9x9 board). Players can play any square during their turn, which makes defensive play more difficult. The winner of a 'mini' or 'localized' 3x3 grid gets the point for that square in the larger 3x3 grid. The game is played in this manner until the original conditions of victory (3 in a row) are satisfied on the larger or 'macro' grid.
 
-"Connect 4" is a similar connection style game published by Milton Bradley / Hasbro. However, pieces are dropped into spaces, so their must be a piece below to support for upper rows. The physics of the board thereby have a dramatic effect on gameplay and optimal strategies. 
+"Connect 4" is a similar connection style game published by Milton Bradley / Hasbro. However, as pieces are dropped into spaces, there must be a piece below to support for placement in 'upper' rows. The physics of the board thereby have a dramatic effect on gameplay and optimal strategies beyond traditional tice-tac-toe. 
 
 ## Gallery
 
 ![Portable tic-tac-toe set](tic1.jpg)  
-*A portable tic-tac-toe set (credit: Craftaholics Anonymous*
+*A portable tic-tac-toe set (credit: Craftaholics Anonymous)*
 
 ![A "giant" lawn tic-tac-toe set](tic2.jpg)  
 *A "giant" lawn tic-tac-toe set (credit: Bounce 'N' More)*
 
 ![Tic-tac-toe with footballs and soccer balls symbols](tic3.jpg)  
-*A tic-tac-toe with footballs and soccer balls symbols (credit: Love Bug Living)*
+*A tic-tac-toe game using footballs and soccer balls as symbols (credit: Love Bug Living)*
 
