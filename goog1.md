@@ -12,7 +12,7 @@
 - This method returns exact matches (case-sensitive), see the example below for how this affects use.  
 - A haystack's needles are only retreivable if the needles and the haystack are in the same base language. For example, searching for `'fuego'` needles (Spanish for *fire*), will not return any instance of semantically identical needles, i.e,. `'fire'` (EN), `'feu'` (FR), or `'火'` (JP). In such cases, desired translations should be added as part of the search string array `needles[]`.
 
-This differs from [`hitTheHay()`](google.com), which suspends the progression of time in the farm context, and is useful for recharging farmer batteries.
+This differs from [`hitTheHay()`](www.google.com), which suspends the progression of time in the farm context, and is useful for recharging farmer batteries.
 
 ### Syntax
 ```java
@@ -35,7 +35,7 @@ The `haystack` string argument is split into an array of substrings based on the
 
 
 ### Example
-The snippet below is from our [*Searching High and Low* Walkthrough](google.com). 
+The snippet below is from our [*Searching High and Low* Walkthrough](www.google.com). 
 
 ```java
 public static void main(String[] args) {
@@ -56,10 +56,10 @@ butter:3
 Even though the words "cheese" and "butter" appear 3 times each in the sample string, "cheese" is capitalized (i.e., "Cheese") in 2 cases, and these do not count towards the total number of instances.
 
 ### Specifications
-* [Search API](google.com)
+* [Search API](www.google.com)
 
 ### See also
-[`dontHoldYourBeath()`](google.com), [`fineToothComb()`](google.com)
+[`dontHoldYourBeath()`](www.google.com), [`fineToothComb()`](www.google.com)
 
 ## Events
 *Lorem ipsum...*
