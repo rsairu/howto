@@ -10,7 +10,7 @@
 #### Usage notes
 - This method will not run if the search string array `needles[]` contains more than `5` elements.  
 - This method returns exact matches (case-sensitive), see the example below for how this affects use.  
-- - A haystack's needles are only retreivable if the needles and the haystack are in the same base language. For example, searching for `'fuego'` needles (Spanish for *fire*), will not return any instance of semantically identical needles, i.e,. `'fire'` (EN), `'feu'` (FR), or `'火'` (JP). In such cases, desired translations should be added as part of the search string array `needles[]`.
+- A haystack's needles are only retreivable if the needles and the haystack are in the same base language. For example, searching for `'fuego'` needles (Spanish for *fire*), will not return any instance of semantically identical needles, i.e,. `'fire'` (EN), `'feu'` (FR), or `'火'` (JP). In such cases, desired translations should be added as part of the search string array `needles[]`.
 
 This differs from [`hitTheHay()`](google.com), which suspends the progression of time in the farm context, and is useful for recharging farmer batteries.
 
