@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
-Tic-tac-toe is a [1 v 1](http://www.google.com) competitive game where players attempt to get "three-in-a-row" of their mark (or tokens, if using a phycial set). The game is traditionally played using "X" and "O" for the marks of the opposing player, but this is not a strict requirement and is done for simplicity as the game is often played written down on paper. Dedicated physical game boards, for example, may make use of very ornamental pieces.
+Tic-tac-toe is a 1v1 competitive game where players take turns filling a board with their mark (or tokens, if using a phycial set) in an attempt to get "three-in-a-row". The game is traditionally played using X's and O's, but this is not a strict requirement and is done for simplicity as the game is often played written down on paper. Dedicated physical game boards, for example, may make use of very ornamental pieces.
 
 ![Players playing tic-tac-toe](ticTac.gif)  
-*The blue "O" player (Player 2) wins here by blocked red's (Player 1) attempt to get 3-in-a row vertically and securing 3-in-a-row diagonally across the board.
+*The blue "O" player (Player 2) wins here by blocked red's (Player 1) attempt to get 3-in-a row vertically and securing 3-in-a-row diagonally across the board.*
 
 ## How to play (Rules)
 
